@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-*(Jo tools use nahi karti unhe hata dena, aur jo miss hain unhe add kar lena — e.g. GitHub Actions, Ansible, Prometheus, Grafana)*
+
 
 ---
 
