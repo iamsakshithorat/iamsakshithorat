@@ -1,77 +1,62 @@
-<table>
-<tr>
-<td width="65%">
+<div align="center">
 
-# 👋 Hey, I'm Sakshi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Sakshi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### ☁️ AWS Cloud & DevOps Enthusiast | Automation | Infrastructure
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Automating+the+cloud%2C+one+pipeline+at+a+time;Learning+AWS+%7C+Docker+%7C+Terraform+%7C+Kubernetes;Turning+manual+tasks+into+scripts+since+day+one" alt="Typing SVG" />
 
-I love turning manual, repetitive work into automated pipelines.
-Currently deep-diving into **AWS, Docker, and CI/CD workflows** —
-figuring out how to ship infrastructure the way software gets shipped.
+<br><br>
 
-When something feels tedious, my first instinct is: *"this can probably be scripted."*
+<a href="mailto:sakshithorat050@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://sakshi-portfoilo-repo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2A5298?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Profile%20Views-Growing-FF9900?style=flat-square" alt="Profile Views"/>
-
-</td>
-<td width="35%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-## 🌐 Find Me Here
+## 🙋‍♀️ About Me
 
-<p>
-  <a href="mailto:sakshithorat050@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="email"/></a>&nbsp;
-  <a href="https://sakshi-portfoilo-repo.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="portfolio"/></a>&nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>&nbsp;
-  <a href="https://github.com/iamsakshithorat" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/></a>
-</p>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,git,py,bash,github" />
-</p>
+- 🎯 Focused on **AWS Cloud infrastructure & DevOps automation**
+- 🔧 Currently building hands-on projects with **Docker, Terraform & Kubernetes**
+- 🌱 Learning to design pipelines that are reliable, repeatable, and boring (in the best way)
+- 💡 Believe in: *if you're doing it manually twice, automate it the third time*
+- 📫 Reach out: **sakshithorat050@gmail.com**
 
 <br>
 
-## 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsakshithorat&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsakshithorat&theme=dracula&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsakshithorat&layout=compact&theme=dracula&hide_border=true"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,git,github,py,bash&theme=dark" />
+</div>
 
 <br>
 
-## 💭 Quote of the Moment
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iamsakshithorat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2A5298&icon_color=2A5298" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsakshithorat&theme=tokyonight&hide_border=true&stroke=2A5298&ring=2A5298&fire=2A5298" width="48%"/>
+</div>
 
-<br>
-
-## 📌 Featured Work
-
-Pin your best 4-6 repos directly on your profile: go to **github.com/iamsakshithorat → Customize your pins**. Some ideas based on your current focus:
-
-- **AWS infra project** — e.g. a serverless app or S3 + Lambda setup
-- **A containerized deployment** — Docker/Kubernetes based project
-- **An automation script** — Bash/Python tool that solves a real annoyance
-- **A CI/CD pipeline** — GitHub Actions or Jenkins based build/deploy flow
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsakshithorat&layout=compact&theme=tokyonight&hide_border=true&title_color=2A5298" width="60%"/>
+</div>
 
 <br>
 
-<p align="center">⚡ Always automating, always learning.</p>
+## 📌 Pinned Projects
+
+> 👉 Go to your profile → **Customize your pins** and select your best AWS/DevOps repos here (unpin the practice ones like `git-lecture`, `insta-app`).
+
+Suggested picks based on what you've built:
+- ☁️ A serverless AWS project (S3 / Lambda / API Gateway based)
+- 🐳 A Docker/Kubernetes deployment project
+- ⚙️ A CI/CD pipeline (GitHub Actions / Jenkins)
+- 📝 A short write-up repo of something you automated
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer&width=100%"/>
+</div>
