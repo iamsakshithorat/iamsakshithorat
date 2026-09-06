@@ -12,6 +12,21 @@ A fan of the cloud, I like figuring out how things work under the hood. Right no
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </p>
+### 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsakshithorat&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamsakshithorat&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamsakshithorat&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamsakshithorat&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsakshithorat&utcOffset=5.5&theme=github_dark"/>
+</p>
 
 ### 🚀 Featured Projects
 
