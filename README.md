@@ -7,7 +7,7 @@
 
 ### 📌 About me
 
-A fan of the cloud, I like figuring out how things work under the hood. Right now, I'm spending my time learning AWS, Docker, and Terraform to help teams ship infrastructure faster and more reliably. If something can be automated, I want to automate it.
+A fan of Linux, I build and automate in the cloud. AWS-certified, working across EC2, S3, RDS, IAM, VPC, Route 53, Lambda, SNS, and CloudWatch.Right now, I'm sharpening my skills with Docker, Kubernetes, and Terraform. If it can be automated, I'm interested.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
