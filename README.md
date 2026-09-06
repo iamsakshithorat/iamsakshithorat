@@ -1,61 +1,36 @@
-<table>
+### 🚀 Featured Projects
+
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="100%">
 
-### 👋 Hello, I'm Sakshi
+<h3 align="center">☁️ Multi-Account AWS Governance using Organizations & SCPs</h3>
 
-**AWS Cloud & DevOps Learner | Linux & Automation Enthusiast**
+<p align="center">
+Designed a centralized governance model for a multi-account AWS setup (Dev / Test / Prod) using <b>AWS Organizations</b>, <b>Organizational Units</b>, and <b>Service Control Policies</b> to enforce security, cost, and compliance guardrails across the entire org.
+</p>
 
-A fan of the cloud, I like figuring out how things work under the hood. Right now, I'm spending my time learning AWS, Docker, and Terraform to help teams ship infrastructure faster and more reliably. If something can be automated, I want to automate it.
+<p align="center">
+<img src="https://img.shields.io/badge/AWS%20Organizations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<p align="center">
+✅ Root → Dev-OU / Test-OU / Prod-OU hierarchy &nbsp;|&nbsp;
+🔒 SCPs to block oversized EC2, protect CloudTrail, restrict regions &nbsp;|&nbsp;
+📄 Full governance documentation & denied-action proof
+</p>
 
-</td>
-<td width="35%">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+<p align="center">
+<a href="https://github.com/iamsakshithorat/YOUR-REPO-NAME">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 </td>
 </tr>
 </table>
-<br>
-
-### 🌐 Socials:
-<p>
-<a href="mailto:sakshithorat050@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>&nbsp;&nbsp;
-<a href="https://sakshi-portfoilo-repo.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
-<a href="https://github.com/iamsakshithorat" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-</p>
-<br>
-
-### 💻 Tech Stack:
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,git,py,bash,github" height="50"/>
-</p>
-<br>
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/iamsakshithorat/YOUR-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamsakshithorat&repo=YOUR-REPO-NAME&theme=radical&hide_border=true" width="48%"/>
-  </a>
-</p>
 
 <br>
-
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamsakshithorat&show_icons=true&theme=radical&hide_border=true" alt="stats graph"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsakshithorat&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsakshithorat&layout=compact&theme=radical&hide_border=true" alt="languages graph"/>
-</p>
-<br>
-
-### ✍️ Random Dev Quote:
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
