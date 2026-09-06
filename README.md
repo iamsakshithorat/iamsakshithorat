@@ -1,3 +1,24 @@
+<table>
+<tr>
+<td width="65%" valign="top">
+
+<h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A970FF&center=false&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakshi;AWS+Cloud+%26+DevOps+Learner;Linux+%26+Automation+Enthusiast" alt="Typing SVG" />
+</h2>
+
+A fan of the cloud, I like figuring out how things work under the hood. Right now, I'm spending my time learning AWS, Docker, and Terraform to help teams ship infrastructure faster and more reliably. If something can be automated, I want to automate it.
+
+<img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+</td>
+<td width="35%">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+
+
 ### 🚀 Featured Projects
 
 <table width="100%">
