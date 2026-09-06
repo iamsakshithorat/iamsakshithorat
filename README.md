@@ -1,13 +1,17 @@
-## 👋 Hi, I'm Sakshi
-### AWS Cloud & DevOps Learner | Linux & Automation Enthusiast
+<h2 align="center">👋 Hi, I'm Sakshi</h2>
+<h3 align="center">AWS Cloud & DevOps Learner | Linux & Automation Enthusiast</h3>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
+</p>
+
+### 📌 About me
 
 A fan of the cloud, I like figuring out how things work under the hood. Right now, I'm spending my time learning AWS, Docker, and Terraform to help teams ship infrastructure faster and more reliably. If something can be automated, I want to automate it.
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-
-
+</p>
 
 ### 🚀 Featured Projects
 
