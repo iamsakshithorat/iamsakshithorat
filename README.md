@@ -1,80 +1,64 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=160&text=SAKSHI%20THORAT&fontSize=38&fontColor=00d4ff&fontAlign=50&fontAlignY=40&desc=AWS%20CLOUD%20%26%20DEVOPS%20ENGINEER&descAlignY=65&descColor=8892b0&descSize=16" width="100%"/>
-</div>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-sakshithorat050@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=00d4ff)](mailto:sakshithorat050@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=00d4ff)](https://sakshi-portfoilo-repo.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/YOUR-LINKEDIN)
-
-</div>
-
-<br>
-
-## Profile
-
-Cloud & DevOps engineer focused on building automated, reliable infrastructure on **AWS**.
-Comfortable working across containerization, infrastructure-as-code, and CI/CD tooling —
-with an emphasis on turning repetitive operational work into repeatable pipelines.
-
-<br>
-
-## Core Stack
-
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="65%" valign="top">
 
-**Cloud & Infra**
-- AWS (EC2, S3, Lambda, IAM)
-- Terraform
-- Linux Administration
+# 👋 Hello, I'm Sakshi
+
+### AWS Cloud & DevOps Learner | Linux & Automation Enthusiast
+
+A fan of the cloud, I like figuring out how things work under the hood.
+Right now, I'm spending my time learning AWS, Docker, and Terraform
+to help teams ship infrastructure faster and more reliably.
+If something can be automated, I want to automate it.
+
+<img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </td>
-<td valign="top" width="33%">
-
-**Containers & Orchestration**
-- Docker
-- Kubernetes
-
-</td>
-<td valign="top" width="33%">
-
-**CI/CD & Tooling**
-- Jenkins
-- Git / GitHub
-- Bash, Python
-
+<td width="35%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </td>
 </tr>
 </table>
 
 <br>
 
-## GitHub Activity
+### 🌐 Socials:
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamsakshithorat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsakshithorat&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff" width="48%"/>
-</div>
-
-<br>
-
-## Selected Work
-
-> Update the table below with your own repos — keep descriptions to one line each.
-
-| Project | Description | Stack |
-|---|---|---|
-| `project-name` | One-line description of what it does | AWS, Terraform |
-| `project-name` | One-line description of what it does | Docker, Kubernetes |
-| `project-name` | One-line description of what it does | Jenkins, GitHub Actions |
-
-*Pin your best repos on your profile: **Customize your pins** → select relevant AWS/DevOps projects, unpin practice repos.*
+<p>
+<a href="mailto:sakshithorat050@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>&nbsp;&nbsp;
+<a href="https://sakshi-portfoilo-repo.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
+<a href="https://github.com/iamsakshithorat" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+</p>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f0f0f&height=60&section=footer&width=100%"/>
-</div>
+### 💻 Tech Stack:
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,git,py,bash,github" height="50"/>
+</p>
+
+<br>
+
+### 📊 GitHub Stats:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iamsakshithorat&show_icons=true&theme=radical&hide_border=true" alt="stats graph"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsakshithorat&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsakshithorat&layout=compact&theme=radical&hide_border=true" alt="languages graph"/>
+</p>
+
+<br>
+
+### ✍️ Random Dev Quote:
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
