@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Sakshi</h2>
+<h2 align="center">👋 Hello, I'm Sakshi</h2>
 <h3 align="center">AWS Cloud & DevOps Learner | Linux & Automation Enthusiast</h3>
 
 <p align="center">
