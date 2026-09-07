@@ -1,19 +1,28 @@
-<h2 align="center">👋 Hi, I'm Sakshi</h2>
-<h3 align="center">AWS Cloud & DevOps Learner | Linux & Automation Enthusiast</h3>
+<h1 align="center">👋 Hello, I'm Sakshi</h1>
+<h3 align="center">AWS Cloud & DevOps Engineer | Linux & Automation Enthusiast</h3>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
-</p>
+<br>
 
-## 📌 About me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-A fan of the cloud, I like figuring out how things work under the hood. Right now, I'm spending my time learning AWS, Docker, and Terraform to help teams ship infrastructure faster and more reliably. If something can be automated, I want to automate it.
+A fan of Linux, I build and automate in the cloud.
+AWS-certified, working across EC2, S3, RDS, IAM, VPC, Route 53, Lambda, SNS, and CloudWatch.
+Right now, I'm sharpening my skills with Docker, Kubernetes, and Terraform.
+If it can be automated, I'm interested.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-</p>
+<br>
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
-## 🌐 Socials:
+<br>
+
+### 🌐Socials:
 
 <p align="center">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;
