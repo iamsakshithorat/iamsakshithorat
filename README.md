@@ -5,13 +5,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
 </p>
 
-### 📌 About me
+## 📌 About me
 
 A fan of the cloud, I like figuring out how things work under the hood. Right now, I'm spending my time learning AWS, Docker, and Terraform to help teams ship infrastructure faster and more reliably. If something can be automated, I want to automate it.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=iamsakshithorat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </p>
+
 ## 🌐 Socials:
 
 <p align="center">
@@ -21,11 +22,13 @@ A fan of the cloud, I like figuring out how things work under the hood. Right no
 <a href="https://sakshi-portfoilo-repo.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>
 </p>
 <br>
+
 ## 💻 Tech Stack:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,windows,prometheus,grafana,nginx,mysql,terraform,bash,jenkins,git,github" height="50"/>
 </p>
 <br>
+
 ## 📊 GitHub Stats:
 
 <p align="center">
