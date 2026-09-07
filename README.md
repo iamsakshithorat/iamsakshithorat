@@ -28,17 +28,7 @@ A fan of Linux, I build and automate in the cloud. AWS-certified, working across
 <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamsakshithorat&utcOffset=5.5&theme=github_dark"/>
 </p>
 
-### 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="100%">
-
-<h3 align="center">☁️ Multi-Account AWS Governance using Organizations & SCPs</h3>
-
-<p align="center">
-Designed a centralized governance model for a multi-account AWS setup (Dev / Test / Prod) using <b>AWS Organizations</b>, <b>Organizational Units</b>, and <b>Service Control Policies</b> to enforce security, cost, and compliance guardrails across the entire org.
-</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS%20Organizations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
