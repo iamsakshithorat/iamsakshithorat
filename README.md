@@ -24,6 +24,7 @@ A fan of the cloud, I like figuring out how things work under the hood. Right no
 <br>
 
 ## 💻 Tech Stack:
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,windows,prometheus,grafana,nginx,mysql,terraform,bash,jenkins,git,github" height="50"/>
 </p>
