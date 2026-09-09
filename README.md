@@ -8,7 +8,7 @@
 <td width="60%" valign="top">
 
 A fan of Linux, I build and automate in the cloud.
-AWS-certified, working across EC2, S3, RDS, IAM, VPC, Route 53, Lambda, SNS, and CloudWatch.
+working across EC2, S3, RDS, IAM, VPC, Route 53, Lambda, SNS, and CloudWatch.
 Right now, I'm sharpening my skills with Docker, Kubernetes, and Terraform.
 If it can be automated, I'm interested.
 
